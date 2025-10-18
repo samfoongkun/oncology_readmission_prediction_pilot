@@ -1,0 +1,2 @@
+patient_id,visit_sn,visit_type,visit_card_no,outpatient_no,visit_times,visit_datetime,medical_record_no,inpatient_no,hospitalization_times,admission_datetime,discharge_datetime,visit_doctor_no,name,gender,date_of_birth,occupation_code,occupation_name,nationality,ethnicity,education,marital_status,newbron_mark,certificate_type,certificate_no
+0000000001,000000001,住院,00000000000000001,,,,IP0000000001,IP0000000001,1,2000年1月1日,2000年1月1日,0001,XXX,XXX,XXX,XXX,无业人员,中国,汉族,,已婚,否,身份证,XXX

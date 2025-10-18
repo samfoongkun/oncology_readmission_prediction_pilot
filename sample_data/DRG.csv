@@ -1,0 +1,3 @@
+medical_record_no,age,fee,WR,in_city,inpatient_type,out_emer_diag,all_diag,B12,B15,unplaned,surgery_date,main_surgery_name,other_surgery_name,min_surgery_class4,other_surgery_class4,is_surgery,surgery_complication
+IP0000000001,99,9999.99,1,市内,门诊,前体T细胞淋巴母细胞性淋巴瘤,前体T细胞淋巴母细胞性淋巴瘤-化疗后骨髓抑制-细菌性肺炎-真菌性肺炎------------------------------------------------------------,2000/1/1,2001/1/1,否,2000/1/1,抗肿瘤免疫治疗,骨髓穿刺术--------------------------------------------------------------------------,0,否,否,否
+,,,,,,,,,,,,,,,,,

@@ -9,7 +9,7 @@ Diagnosis-related group data with cost and outcome indicators
 Synthetic structure matching DRG datasets.
 face_sheet.csv
 Admission and discharge summaries (diagnoses, operation dates, fees)
-Placeholder dates (2000/1/1 etc.) used.
+Placeholder dates (2000/1/1, etc.) used.
 note.csv
 Narrative clinical notes (doctor’s progress notes, consultations, summaries)
 Fully de-identified, human-written synthetic examples; no real patients.
@@ -25,7 +25,7 @@ Common preprocessing and normalization utilities for tabular & text data.
 01_data_exploration.ipynb
 Exploratory Data Analysis (EDA): distributions, missing values, correlations, text length stats.
 02_build_dataset_andmodel.ipynb
-Feature construction and model building (e.g., logistic regression, clinical NER, or classification).
+Feature construction and model building (e.g., logistic regression, regular expression, classification).
 
 Results and Future Directions:
 The tree-based model (XGBoost) maintained good generalization performance while significantly improving the identification of minority cases (readmissions). Logistic regression, meanwhile, retains clear advantages in interpretability and coefficient visualization.

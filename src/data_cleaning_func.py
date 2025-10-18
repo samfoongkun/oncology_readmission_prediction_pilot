@@ -3,7 +3,7 @@ import numpy as np
 import yaml
 import os
 
-CFG = yaml.safe_load(open('/Users/lajikf/Desktop/Python/Projectone/configs/excel_ingest.yaml','r',encoding='utf-8'))
+CFG = yaml.safe_load(open('xxx.yaml','r',encoding='utf-8'))
 def get_readmission_patients(df, cancer_codes, days_threshold=30, cfg = CFG, emergency = 'all'):
     """
     Identify patients who were readmitted within time limits after chemotherapy.

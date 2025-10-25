@@ -187,10 +187,10 @@ Achieved the lowest Brier score (0.004) while maintaining identical AUROC and AU
     │
     ├── notebooks/
     │   ├── 01_data_exploration.ipynb
-    │   └── 02_build_dataset_andmodel.ipynb      # dataset construction & model training
+    │   └── 02_build_dataset_and_model.ipynb      
     │
     ├── src/
-    │   └── data_cleaning_func.py                # data preprocessing and feature extraction
+    │   └── data_cleaning_func.py               
     │
     └── README.md
 ---
